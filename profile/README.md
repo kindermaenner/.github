@@ -26,7 +26,7 @@ Built to support our regular blitz chess evenings from data entry to published r
 
 ---
 
-### Hit my music
+### Play my music
 
 A simple alternative for music-based games without relying on streaming subscriptions.
 
